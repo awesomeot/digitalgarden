@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/second-page/","noteIcon":""}
+{"dg-publish":true,"permalink":"/second-page/"}
 ---
 
 This is the second page.
