@@ -4,6 +4,6 @@
 
 This is the second page.
 
-[[My Digital Garden\|My Digital Garden]]
+[[My Magic Lab\|My Magic Lab]]
 
 
